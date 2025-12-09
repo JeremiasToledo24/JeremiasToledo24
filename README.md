@@ -1,4 +1,4 @@
-# Hi there, I'm Jeremias Toledo 👋
+# Hi there, I'm Jeremias Toledo
 
 ## About Me
 
@@ -9,7 +9,7 @@ Specialized in **REST APIs**, **Integration Systems**, **Systems Design**
 - 🤝 I enjoy working in teams and sharing knowledge. Collaboration is better than competition.
 - 🧠 Interested in best practices, software design, and clean architecture.
   
-## 💼 Backend Developer
+## Backend Developer
 
 Clean code, best practices, well-designed APIs, and robust systems.  
 I work with modern technologies and aim to build efficient, simple, and scalable solutions.
