@@ -1,21 +1,21 @@
 # Hi there, I'm Jeremias Toledo
 
-## About Me
+## 🧑🏻‍💻 About Me
 
-Backend development ⚙️ constantly learning new tools.  
+Backend developer. I'm constantly learning new tools.  
 Currently diving deep into **Node.js**, **NestJS** and scalable systems.
 Specialized in **REST APIs**, **Integration Systems**, **Systems Design**
 - 🌱 Always looking to improve, both personally and professionally.
 - 🤝 I enjoy working in teams and sharing knowledge. Collaboration is better than competition.
 - 🧠 Interested in best practices, software design, and clean architecture.
   
-## Backend Developer
+## 💻⚙️ Backend Development
 
 Clean code, best practices, well-designed APIs, and robust systems.  
 I work with modern technologies and aim to build efficient, simple, and scalable solutions.
 Currently mastering Node.js with frameworks: Express, NestJS, Jest
 
-##  Technologies and tools
+## 🛠️ Technologies and tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
@@ -32,7 +32,7 @@ Currently mastering Node.js with frameworks: Express, NestJS, Jest
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" alt="Angular"/>
 </p>
 
-##  Another tools
+## ⚒️ Another tools
 <p align="left">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="30" alt="Postman"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/n8n-color.png" height="30" alt="n8n"/>
